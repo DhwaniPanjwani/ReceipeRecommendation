@@ -1,0 +1,868 @@
+,Food,Serving,Calories
+0,Acai,100g,70 cal
+1,Apple,100g,52 cal
+2,Applesauce,100g,68 cal
+3,Apricot,100g,48 cal
+4,Avocado,100g,160 cal
+5,Banana,100g,89 cal
+6,Blackberries,100g,43 cal
+7,Blood Oranges,100g,50 cal
+8,Blueberries,100g,57 cal
+9,Cantaloupe,100g,34 cal
+10,Cherries,100g,50 cal
+11,Clementine,100g,47 cal
+12,Cranberries,100g,46 cal
+13,Currants,100g,56 cal
+14,Custard Apple,100g,101 cal
+15,Dates,100g,282 cal
+16,Figs,100g,74 cal
+17,Fruit salad,100g,50 cal
+18,Grapes,100g,69 cal
+19,Greengage,100g,41 cal
+20,Guava,100g,68 cal
+21,Jackfruit,100g,95 cal
+22,Jujube,100g,79 cal
+23,Kiwi,100g,61 cal
+24,Lemon,100g,29 cal
+25,Lime,100g,30 cal
+26,Lychees,100g,66 cal
+27,Mandarin Oranges,100g,53 cal
+28,Mango,100g,60 cal
+29,Minneola,100g,64 cal
+30,Mulberries,100g,43 cal
+31,Nectarine,100g,44 cal
+32,Olives,100g,115 cal
+33,Orange,100g,47 cal
+34,Papaya,100g,43 cal
+35,Passion Fruit,100g,97 cal
+36,Peach,100g,39 cal
+37,Pear,100g,57 cal
+38,Persimmon,100g,127 cal
+39,Physalis,100g,49 cal
+40,Pineapple,100g,50 cal
+41,Plantains,100g,122 cal
+42,Plum,100g,46 cal
+43,Pomegranate,100g,83 cal
+44,Quince,100g,57 cal
+45,Raisins,100g,299 cal
+46,Rambutan,100g,82 cal
+47,Raspberries,100g,52 cal
+48,Rhubarb,100g,21 cal
+49,Starfruit,100g,31 cal
+50,Strawberries,100g,32 cal
+51,Tamarind,100g,239 cal
+52,Tangerine,100g,53 cal
+53,Watermelon,100g,30 cal
+54,All-blue Potatoes,100g,61 cal
+55,Baked Potato,100g,93 cal
+56,Boiled Potatoes,100g,87 cal
+57,Cassava,100g,160 cal
+58,Croquettes,100g,127 cal
+59,Dumpling Dough,100g,124 cal
+60,Dumplings,100g,124 cal
+61,French Fingerling Potatoes,100g,82 cal
+62,French Fries,100g,312 cal
+63,Fried Potatoes,100g,312 cal
+64,Gnocchi,100g,133 cal
+65,Japanese Sweet Potatoes,100g,87 cal
+66,Marrow Dumplings,100g,424 cal
+67,Mashed Potatoes,100g,89 cal
+68,Norland Red Potatoes,100g,89 cal
+69,Omelette,100g,154 cal
+70,Potato,100g,77 cal
+71,Potato Dumpling,100g,124 cal
+72,Potato Fritter,100g,185 cal
+73,Potato Gratin,100g,132 cal
+74,Potato Pancakes,100g,268 cal
+75,Potato Salad,100g,143 cal
+76,Potato Starch,100g,331 cal
+77,Potato Sticks,100g,522 cal
+78,Potato Waffles,100g,167 cal
+79,Potato Wedges,100g,123 cal
+80,Potatoes au Gratin,100g,132 cal
+81,Purple Majesty Potatoes,100g,72 cal
+82,Red Gold Potatoes,100g,89 cal
+83,Red Potatoes,100g,89 cal
+84,Roast Potatoes,100g,149 cal
+85,Rosemary Potatoes,100g,93 cal
+86,Rösti,100g,138 cal
+87,Russet Potatoes,100g,97 cal
+88,Russian Banana Potatoes,100g,67 cal
+89,Sweet Potato,100g,92 cal
+90,White Potatoes,100g,94 cal
+91,Yams,100g,116 cal
+92,Yukon Gold Potatoes,100g,82 cal
+93,Artichoke,100g,47 cal
+94,Arugula,100g,25 cal
+95,Asparagus,100g,20 cal
+96,Aubergine,100g,25 cal
+97,Beetroot,100g,43 cal
+98,Bell Pepper,100g,20 cal
+99,Black Olives,100g,115 cal
+100,Broccoli,100g,34 cal
+101,Brussels Sprouts,100g,43 cal
+102,Cabbage,100g,25 cal
+103,Capsicum,100g,27 cal
+104,Carrot,100g,41 cal
+105,Cauliflower,100g,25 cal
+106,Celery,100g,16 cal
+107,Chard,100g,19 cal
+108,Cherry Tomato,100g,100 cal
+109,Chicory,100g,72 cal
+110,Chinese Cabbage,100g,16 cal
+111,Chives,100g,30 cal
+112,Collard Greens,100g,32 cal
+113,Corn,100g,365 cal
+114,Courgette,100g,17 cal
+115,Creamed Spinach,100g,74 cal
+116,Cucumber,100g,16 cal
+117,Eggplant,100g,25 cal
+118,Endive,100g,17 cal
+119,Fennel,100g,31 cal
+120,Garlic,100g,149 cal
+121,Gherkin,100g,14 cal
+122,Gourd,100g,14 cal
+123,Green Beans,100g,31 cal
+124,Green Olives,100g,115 cal
+125,Green Onion,100g,32 cal
+126,Horseradish,100g,48 cal
+127,Kale,100g,49 cal
+128,Kohlrabi,100g,27 cal
+129,Kumara,100g,86 cal
+130,Leek,100g,61 cal
+131,Lettuce,100g,15 cal
+132,Mushrooms,100g,22 cal
+133,Mustard Greens,100g,27 cal
+134,Nori,100g,35 cal
+135,Okra,100g,33 cal
+136,Olives,100g,115 cal
+137,Onion,100g,40 cal
+138,Parsnips,100g,75 cal
+139,Peas,100g,81 cal
+140,Pepper,100g,27 cal
+141,Potato,100g,77 cal
+142,Pumpkin,100g,26 cal
+143,Radishes,100g,16 cal
+144,Red Cabbage,100g,31 cal
+145,Rutabaga,100g,38 cal
+146,Shallots,100g,72 cal
+147,Spinach,100g,23 cal
+148,Squash,100g,45 cal
+149,Sweet Potato,100g,86 cal
+150,Tomato,100g,18 cal
+151,Turnip Greens,100g,20 cal
+152,Turnips,100g,28 cal
+153,Wasabi,100g,109 cal
+154,Winter Squash,100g,34 cal
+155,Zucchini,100g,17 cal
+156,Arby’s Grand Turkey Club,100g,210 cal
+157,Arby’s Reuben,100g,208 cal
+158,Arby’s Roast Beef Classic,100g,234 cal
+159,Arby’s Roast Beef Max,100g,234 cal
+160,BBQ Rib,100g,212 cal
+161,Bean Burrito,100g,200 cal
+162,Big N’ Tasty,100g,223 cal
+163,Bratwurst,100g,333 cal
+164,Burger King Angry Whopper,100g,255 cal
+165,Burger King Double Whopper,100g,239 cal
+166,Burger King Double Whopper with Cheese,100g,249 cal
+167,Burger King Original Chicken Sandwich,100g,301 cal
+168,Burger King Premium Alaskan Fish Sandwich,100g,259 cal
+169,Burger King Triple Whopper,100g,269 cal
+170,Burger King Whopper,100g,231 cal
+171,Burger King Whopper Jr.,100g,234 cal
+172,Burger King Whopper with Cheese,100g,241 cal
+173,Cheeseburger,100g,263 cal
+174,Chicken Breast,100g,163 cal
+175,Chicken Fajita,100g,147 cal
+176,Chicken McNuggets,100g,302 cal
+177,Chicken Nuggets,100g,296 cal
+178,Chicken Pizziola,100g,141 cal
+179,Chicken Sandwich,100g,241 cal
+180,Chicken Teriyaki Sandwich,100g,138 cal
+181,Chicken Wings,100g,324 cal
+182,Chop Suey,100g,172 cal
+183,Curly Fries,100g,311 cal
+184,Double Cheeseburger,100g,267 cal
+185,Egg Roll,100g,250 cal
+186,Falafel,100g,335 cal
+187,Filet-o-Fish,100g,282 cal
+188,Fish and Chips,100g,195 cal
+189,Fish Sandwich,100g,273 cal
+190,French Fries,100g,312 cal
+191,Grilled Chicken Salad,100g,88 cal
+192,Ham Sandwich,100g,241 cal
+193,Hamburger,100g,254 cal
+194,Hot Dog,100g,269 cal
+195,Italian BMT,100g,183 cal
+196,Lasagna,100g,132 cal
+197,McDonald’s Big Mac,100g,256 cal
+198,McDonald’s Cheeseburger,100g,263 cal
+199,McDonald’s Chicken Nuggets,100g,297 cal
+200,McDonald’s Double Cheeseburger,100g,282 cal
+201,McDonald’s Filet-o-Fish,100g,275 cal
+202,McDonald’s McChicken,100g,251 cal
+203,McDonald’s McDouble,100g,252 cal
+204,McDonald’s McMuffi Egg,100g,225 cal
+205,McDonald’s McRib,100g,265 cal
+206,McDonald’s Mighty Wings,100g,308 cal
+207,McRib,100g,265 cal
+208,Meatball Sandwich,100g,161 cal
+209,Nachos with Cheese,100g,306 cal
+210,Onion Rings,100g,411 cal
+211,Smoked Salmon,100g,158 cal
+212,Spicy Italian,100g,219 cal
+213,Subway Club Sandwich,100g,131 cal
+214,Tortilla Wrap,100g,271 cal
+215,Tuna,100g,86 cal
+216,Turkey,100g,104 cal
+217,Veggie Burger,100g,181 cal
+218,Veggie Delight,100g,138 cal
+219,Veggie Patty,100g,390 cal
+220,Wendy’s Baconator,100g,304 cal
+221,Wendy’s Jr. Bacon Cheeseburger,100g,261 cal
+222,Wendy’s Jr. Cheeseburger,100g,225 cal
+223,Wendy’s Son of Baconator,100g,321 cal
+224,Whopper,100g,231 cal
+225,Zinger,100g,256 cal
+226,Zinger Burger,100g,256 cal
+227,Poutine,100g,227 cal
+228,BBQ Chicken Pizza,100g,234 cal
+229,BBQ Pizza,100g,224 cal
+230,Beef Pizza,100g,304 cal
+231,Bianca Pizza,100g,246 cal
+232,Buffalo Chicken Pizza,100g,252 cal
+233,Calabrese Pizza,100g,235 cal
+234,Calzone,100g,231 cal
+235,Capricciosa Pizza,100g,260 cal
+236,Cheese Pizza,100g,267 cal
+237,Chicken Pizza,100g,234 cal
+238,Deep Dish Pizza,100g,265 cal
+239,Dominos Philly Cheese Steak Pizza,100g,224 cal
+240,Four Cheese Pizza,100g,221 cal
+241,Goat Cheese Pizza,100g,219 cal
+242,Grilled Pizza,100g,226 cal
+243,Hawaiian Pizza,100g,115 cal
+244,Margherita Pizza,100g,275 cal
+245,Mozzarella Pizza,100g,249 cal
+246,Mushroom Pizza,100g,212 cal
+247,Napoli Pizza,100g,202 cal
+248,New York Style Pizza,100g,169 cal
+249,Pepperoni Pizza,100g,255 cal
+250,Pizza Dough,100g,228 cal
+251,Pizza Hut Stuffed Crust Pizza,100g,255 cal
+252,Pizza Hut Supreme Pizza,100g,248 cal
+253,Pizza Rolls,100g,247 cal
+254,Quattro Formaggi Pizza,100g,248 cal
+255,Red Pepper Pizza,100g,192 cal
+256,Salami Pizza,100g,255 cal
+257,Sausage Pizza,100g,246 cal
+258,Seafood Pizza,100g,245 cal
+259,Shrimp Pizza,100g,209 cal
+260,Sicilian Pizza,100g,241 cal
+261,Spinach Feta Pizza,100g,242 cal
+262,Spinach Pizza,100g,234 cal
+263,Stuffed Crust Pizza,100g,255 cal
+264,Tarte Flambée,100g,253 cal
+265,Thin Crust Pizza,100g,261 cal
+266,Tuna Pizza,100g,254 cal
+267,Vegetable Pizza,100g,256 cal
+268,Vegetarian Pizza,100g,256 cal
+269,Veggie Pizza,100g,231 cal
+270,White Pizza,100g,246 cal
+271,American Cheese,100g,148 cal
+272,Applewood,100g,410 cal
+273,Asiago Cheese,100g,392 cal
+274,Babybel,100g,333 cal
+275,Blue Cheese,100g,353 cal
+276,Brie,100g,334 cal
+277,Camembert,100g,300 cal
+278,Cheddar,100g,403 cal
+279,Cheese Fondue,100g,228 cal
+280,Cheese Spread,100g,290 cal
+281,Cheese Whiz,100g,276 cal
+282,Chester,100g,387 cal
+283,Colby Cheese,100g,394 cal
+284,Colby-Jack Cheese,100g,394 cal
+285,Cottage Cheese,100g,98 cal
+286,Dutch Cheese,100g,393 cal
+287,Edam Cheese,100g,357 cal
+288,Emmentaler,100g,357 cal
+289,Feta,100g,264 cal
+290,Fontina,100g,389 cal
+291,Fresh Mozzarella,100g,280 cal
+292,Gjetost,100g,466 cal
+293,Goat Cheese,100g,364 cal
+294,Gorgonzola,100g,350 cal
+295,Gouda,100g,356 cal
+296,Grated Parmesan,100g,431 cal
+297,Grilled Cheese,100g,350 cal
+298,Gruyere,100g,413 cal
+299,Halloumi,100g,321 cal
+300,Havarti,100g,371 cal
+301,Italian Cheese,100g,397 cal
+302,Jarlsberg,100g,352 cal
+303,Maasdam Cheese,100g,344 cal
+304,Manchego Cheese,100g,320 cal
+305,Monterey,100g,373 cal
+306,Monterey Jack Cheese,100g,373 cal
+307,Mozzarella,100g,280 cal
+308,Muenster Cheese,100g,368 cal
+309,Neufchatel,100g,253 cal
+310,Parmesan,100g,431 cal
+311,Pecorino,100g,387 cal
+312,Provolone,100g,351 cal
+313,Raclette Cheese,100g,357 cal
+314,Ricotta,100g,174 cal
+315,Romano,100g,387 cal
+316,Roquefort,100g,369 cal
+317,Sheep Cheese,100g,364 cal
+318,Soft Cheese,100g,268 cal
+319,Stilton Cheese,100g,393 cal
+320,String Cheese,100g,250 cal
+321,Swiss Cheese,100g,380 cal
+322,White Cheddar,100g,403 cal
+323,Wisconsin Cheese,100g,389 cal
+324,Almond Milk,100ml,17 cal
+325,Buttermilk,100ml,62 cal
+326,Chocolate Mousse,100g,225 cal
+327,Coconut Milk,100ml,230 cal
+328,Coffee Creamer,100g,195 cal
+329,Condensed Milk,100g,321 cal
+330,Cottage Cheese,100g,98 cal
+331,Cream,100g,242 cal
+332,Creme Fraiche,100g,393 cal
+333,Curd,100g,98 cal
+334,Custard,100g,122 cal
+335,Evaporated Milk,100g,135 cal
+336,Goat Milk,100g,69 cal
+337,Hot Chocolate,100ml,89 cal
+338,Kefir,100ml,55 cal
+339,Lactose-free Milk,100ml,52 cal
+340,Lassi,100ml,75 cal
+341,Milk,100ml,61 cal
+342,Plain Yogurt,100g,61 cal
+343,Powdered Milk,100g,496 cal
+344,Quark,100g,145 cal
+345,Rice Milk,100ml,49 cal
+346,Rice Pudding,100g,118 cal
+347,Semi-skimmed Milk,100ml,50 cal
+348,Semolina Pudding,100g,67 cal
+349,Skim Milk,100ml,35 cal
+350,Sour Cream,100g,181 cal
+351,Soy Milk,100ml,45 cal
+352,Sweetened Condensed Milk,100ml,321 cal
+353,Tzatziki,100g,117 cal
+354,Whipped Cream,100g,257 cal
+355,Whole Milk,100ml,61 cal
+356,Yogurt,100g,61 cal
+357,Beef,100g,171 cal
+358,Beef Brisket,100g,137 cal
+359,Beef Fillet,100g,189 cal
+360,Beef Goulash,100g,123 cal
+361,Beef Minute Steak,100g,133 cal
+362,Beef Neck,100g,213 cal
+363,Beef Pancreas,100g,271 cal
+364,Beef Patty,100g,247 cal
+365,Beef Prime Rib,100g,404 cal
+366,Beef Ribs,100g,196 cal
+367,Beef Sirloin,100g,182 cal
+368,Beef Suet,100g,854 cal
+369,Beef Tallow,100g,902 cal
+370,Beef Thymus,100g,319 cal
+371,Beef Tripe,100g,94 cal
+372,Chuck Roast,100g,141 cal
+373,Chuck Steak,100g,137 cal
+374,Filet Mignon,100g,207 cal
+375,Flank Steak,100g,194 cal
+376,Ground Beef,100g,241 cal
+377,Ground Chuck,100g,250 cal
+378,Ground Round,100g,212 cal
+379,Minced Veal,100g,143 cal
+380,Porterhouse Steak,100g,247 cal
+381,Rib Eye Steak,100g,217 cal
+382,Roast Beef,100g,187 cal
+383,Rump Steak,100g,171 cal
+384,Skirt Steak,100g,205 cal
+385,Stew Beef,100g,191 cal
+386,Strip Steak,100g,117 cal
+387,T-Bone-Steak,100g,221 cal
+388,Veal,100g,282 cal
+389,Veal Breast,100g,282 cal
+390,Veal Leg,100g,211 cal
+391,Veal Roast Beef,100g,175 cal
+392,Veal Shank,100g,177 cal
+393,Veal Shoulder,100g,183 cal
+394,Veal Sirloin,100g,204 cal
+395,Veal Tenderloin,100g,217 cal
+396,Alligator,100g,232 cal
+397,Beef,100g,248 cal
+398,Beef Brisket,100g,242 cal
+399,Beef Jerky,100g,410 cal
+400,Beef Ribs,100g,238 cal
+401,Beef Tenderloin,100g,218 cal
+402,Chicken,100g,219 cal
+403,Chicken Breast,100g,172 cal
+404,Chicken Drumstick,100g,185 cal
+405,Chicken Fat,100g,898 cal
+406,Chicken Giblets,100g,158 cal
+407,Chicken Gizzards,100g,146 cal
+408,Chicken Leg,100g,174 cal
+409,Chicken Liver,100g,167 cal
+410,Chicken Meat,100g,172 cal
+411,Chicken Thigh,100g,229 cal
+412,Chicken Wing,100g,266 cal
+413,Chuck Steak,100g,277 cal
+414,Cubed Steak,100g,199 cal
+415,Duck,100g,337 cal
+416,Filet Mignon,100g,267 cal
+417,Flank Steak,100g,194 cal
+418,Flat Iron Steak,100g,137 cal
+419,Ground Beef,100g,246 cal
+420,Ground Round,100g,246 cal
+421,Ham,100g,163 cal
+422,New York Strip Steak,100g,199 cal
+423,Ostrich,100g,145 cal
+424,Pork,100g,196 cal
+425,Pork Baby Back Ribs,100g,212 cal
+426,Pork Chops,100g,196 cal
+427,Pork Country-Style Ribs,100g,247 cal
+428,Pork Loin,100g,204 cal
+429,Pork Roast,100g,254 cal
+430,Pork Steaks,100g,196 cal
+431,Roast Beef,100g,140 cal
+432,Round Steak,100g,182 cal
+433,Schnitzel,100g,156 cal
+434,Spare Ribs,100g,238 cal
+435,Standing Rib Roast,100g,333 cal
+436,T-Bone Steak,100g,202 cal
+437,Turkey,100g,189 cal
+438,Turkey Breast,100g,135 cal
+439,Turkey Legs,100g,208 cal
+440,Turkey Steak,100g,189 cal
+441,Turkey Wings,100g,221 cal
+442,Bacon,100g,407 cal
+443,Brawn,100g,309 cal
+444,Canadian-Style Bacon,100g,107 cal
+445,Chitterlings,100g,233 cal
+446,Ground Pork,100g,263 cal
+447,Hog Maws,100g,250 cal
+448,Lard,100g,898 cal
+449,Meatloaf,100g,89 cal
+450,Parma Ham,100g,261 cal
+451,Pig Ear,100g,166 cal
+452,Pig Fat,100g,638 cal
+453,Pig’s Tail,100g,396 cal
+454,Pig’s Trotter,100g,243 cal
+455,Pork Bacon,100g,407 cal
+456,Pork Belly,100g,518 cal
+457,Pork Blade Steak,100g,232 cal
+458,Pork Chop,100g,123 cal
+459,Pork Country-Style Ribs,100g,133 cal
+460,Pork Crown Roast,100g,212 cal
+461,Pork Cutlet,100g,131 cal
+462,Pork Cutlets,100g,131 cal
+463,Pork Leg,100g,201 cal
+464,Pork Loin,100g,143 cal
+465,Pork Meatloaf,100g,243 cal
+466,Pork Ragout,100g,73 cal
+467,Pork Rib Roast,100g,159 cal
+468,Pork Ribs,100g,292 cal
+469,Pork Roast,100g,194 cal
+470,Pork Sausage,100g,339 cal
+471,Pork Shank,100g,172 cal
+472,Pork Shoulder,100g,269 cal
+473,Pork Shoulder Blade,100g,232 cal
+474,Pork Stomach,100g,250 cal
+475,Rack of Pork,100g,241 cal
+476,Salt Meat,100g,286 cal
+477,Salt Pork,100g,286 cal
+478,Serrano Ham,100g,339 cal
+479,Spare Ribs,100g,396 cal
+480,Spareribs,100g,238 cal
+481,Capon,100g,229 cal
+482,Chicken,100g,219 cal
+483,Chicken Breast,100g,172 cal
+484,Chicken Drumsticks,100g,185 cal
+485,Chicken Gizzards,100g,154 cal
+486,Chicken Legs,100g,174 cal
+487,Chicken Thighs,100g,229 cal
+488,Chicken Wings,100g,266 cal
+489,Cornish Hens,100g,259 cal
+490,Dove,100g,213 cal
+491,Duck,100g,337 cal
+492,Duck Breast,100g,201 cal
+493,Emu,100g,152 cal
+494,Goose,100g,305 cal
+495,Guinea-Fowl,100g,158 cal
+496,Ostrich,100g,145 cal
+497,Ostrich Meat,100g,145 cal
+498,Pheasant,100g,239 cal
+499,Pheasant Breast,100g,133 cal
+500,Pheasant Leg,100g,239 cal
+501,Pigeon,100g,142 cal
+502,Poularde,100g,200 cal
+503,Quail,100g,227 cal
+504,Quail Breast,100g,123 cal
+505,Rhea,100g,160 cal
+506,Turkey,100g,189 cal
+507,Turkey Breast,100g,135 cal
+508,Turkey Cutlet,100g,189 cal
+509,Turkey Drumsticks,100g,208 cal
+510,Turkey Legs,100g,208 cal
+511,Turkey Steak,100g,189 cal
+512,Turkey Wings,100g,221 cal
+513,Wild Duck,100g,211 cal
+514,Amaranth,100g,371 cal
+515,Barley,100g,354 cal
+516,Barley Groats,100g,100 cal
+517,Brown Rice,100g,388 cal
+518,Buckwheat,100g,343 cal
+519,Buckwheat Groats,100g,346 cal
+520,Corn Waffles,100g,274 cal
+521,Cornmeal,100g,362 cal
+522,Cornstarch,100g,381 cal
+523,Couscous,100g,376 cal
+524,Cracker,100g,502 cal
+525,Durum Wheat Semolina,100g,397 cal
+526,Flaxseed,100g,534 cal
+527,Freekeh,100g,520 cal
+528,Gluten,100g,370 cal
+529,Grissini,100g,408 cal
+530,Kamut,100g,337 cal
+531,Millet,100g,378 cal
+532,Millet Flour,100g,372 cal
+533,Millet Gruel,100g,46 cal
+534,Oat Bran,100g,246 cal
+535,Pearl Barley,100g,352 cal
+536,Polenta,100g,366 cal
+537,Prawn Crackers,100g,527 cal
+538,Pretzel Sticks,100g,380 cal
+539,Quinoa,100g,368 cal
+540,Rusk,100g,410 cal
+541,Rye Bran,100g,281 cal
+542,Sago,100g,354 cal
+543,Savoury Biscuits,100g,347 cal
+544,Shortbread,100g,502 cal
+545,Spelt,100g,338 cal
+546,Spelt Bran,100g,177 cal
+547,Spelt Semolina,100g,360 cal
+548,Sunflower Seeds,100g,584 cal
+549,Tortilla,100g,237 cal
+550,Tortilla Chips,100g,499 cal
+551,Wheat Bran,100g,216 cal
+552,Wheat Germ,100g,382 cal
+553,Wheat Gluten,100g,325 cal
+554,Wheat Semolina,100g,360 cal
+555,Wheat Starch,100g,351 cal
+556,Whole Grain Wheat,100g,339 cal
+557,Wholegrain Oat,100g,375 cal
+558,Cannelloni,100g,146 cal
+559,Capellini,100g,353 cal
+560,Cappelletti,100g,164 cal
+561,Cellophane Noodles,100g,351 cal
+562,Cheese Tortellini,100g,291 cal
+563,Dampfnudel,100g,274 cal
+564,Dumpling Dough,100g,99 cal
+565,Durum Wheat Semolina,100g,397 cal
+566,Egg Noodles,100g,384 cal
+567,Farfalle,100g,358 cal
+568,Fettuccine,100g,353 cal
+569,Fusilli,100g,352 cal
+570,Glass Noodles,100g,192 cal
+571,Lasagne Sheets,100g,271 cal
+572,Linguine,100g,357 cal
+573,Low Carb Pasta,100g,282 cal
+574,Macaroni,100g,370 cal
+575,Manicotti,100g,357 cal
+576,Mostaccioli,100g,184 cal
+577,Orecchiette,100g,370 cal
+578,Orzo,100g,357 cal
+579,Penne,100g,351 cal
+580,Penne Rigate,100g,370 cal
+581,Pierogi,100g,200 cal
+582,Ravioli,100g,77 cal
+583,Rigatoni,100g,353 cal
+584,Rotini,100g,353 cal
+585,Shells,100g,353 cal
+586,Shirataki Noodles,100g,18 cal
+587,Soy Noodles,100g,216 cal
+588,Spaetzle,100g,368 cal
+589,Spaghetti,100g,370 cal
+590,Spinach Tortellini,100g,314 cal
+591,Spirelli,100g,367 cal
+592,Tagliatelle,100g,370 cal
+593,Tortellini,100g,291 cal
+594,Vermicelli,100g,368 cal
+595,Whole Grain Noodles,100g,347 cal
+596,Whole Grain Spaghetti,100g,351 cal
+597,Ziti,100g,352 cal
+598,Baby Back Ribs,100g,259 cal
+599,Bacon and Eggs,100g,252 cal
+600,Baked Beans,100g,94 cal
+601,Baked Chicken,100g,164 cal
+602,BBQ Ribs,100g,255 cal
+603,Beef Stew,100g,95 cal
+604,Biryani,100g,176 cal
+605,Black Pudding,100g,253 cal
+606,Black Rice,100g,323 cal
+607,BLT,100g,247 cal
+608,Brown Rice,100g,362 cal
+609,Burrito,100g,163 cal
+610,Butter Chicken,100g,140 cal
+611,California Roll,100g,93 cal
+612,Chicken Caesar Salad,100g,127 cal
+613,Chicken Fried Steak,100g,151 cal
+614,Chicken Marsala,100g,96 cal
+615,Chicken Parmesan,100g,110 cal
+616,Chicken Pot Pie,100g,223 cal
+617,Chicken Tikka Masala,100g,81 cal
+618,Chili con Carne,100g,105 cal
+619,Chimichanga,100g,232 cal
+620,Cobb Salad,100g,118 cal
+621,Collard Greens,100g,28 cal
+622,Corn Dog,100g,250 cal
+623,Corned Beef Hash,100g,164 cal
+624,Cottage Pie,100g,139 cal
+625,Dal,100g,330 cal
+626,Deviled Eggs,100g,201 cal
+627,Dim Sum,100g,193 cal
+628,Dosa,100g,66 cal
+629,Enchiladas,100g,168 cal
+630,Fajita,100g,117 cal
+631,Fish and Chips,100g,195 cal
+632,Fried Rice,100g,186 cal
+633,Fried Shrimp,100g,277 cal
+634,Grilled Cheese Sandwich,100g,288 cal
+635,Ham and Cheese Sandwich,100g,241 cal
+636,Hummus,100g,177 cal
+637,Jambalaya,100g,100 cal
+638,Kebab,100g,215 cal
+639,Lasagne,100g,132 cal
+640,Mac and Cheese,100g,370 cal
+641,Macaroni and Cheese,100g,370 cal
+642,Mashed Potatoes,100g,83 cal
+643,Meat Pie,100g,242 cal
+644,Meatloaf,100g,254 cal
+645,Naan,100g,310 cal
+646,Orange Chicken,100g,259 cal
+647,Pad Thai,100g,150 cal
+648,Paella,100g,156 cal
+649,Paratha,100g,325 cal
+650,Pea Soup,100g,75 cal
+651,Peanut Butter Sandwich,100g,408 cal
+652,Peking Duck,100g,225 cal
+653,Philly Cheese Steak,100g,250 cal
+654,Pizza,100g,267 cal
+655,Pork Chop,100g,225 cal
+656,Potato Salad,100g,143 cal
+657,Pulled Pork Sandwich,100g,211 cal
+658,Ramen,100g,447 cal
+659,Ravioli,100g,203 cal
+660,Reuben Sandwich,100g,208 cal
+661,Roast Beef,100g,111 cal
+662,Roast Dinner,100g,198 cal
+663,Samosa,100g,214 cal
+664,Sausage Roll,100g,350 cal
+665,Sausage Rolls,100g,297 cal
+666,Shepherds Pie,100g,70 cal
+667,Shrimp Cocktail,100g,464 cal
+668,Sloppy Joe,100g,71 cal
+669,Sloppy Joes,100g,154 cal
+670,Spaghetti Bolognese,100g,132 cal
+671,Spring Roll,100g,250 cal
+672,Spring Rolls,100g,250 cal
+673,Taco,100g,217 cal
+674,Tandoori Chicken,100g,113 cal
+675,Yorkshire Pudding,100g,553 cal
+676,Azuki Bean,100g,124 cal
+677,Bamboo Shoots,100g,27 cal
+678,Bean Curd,100g,76 cal
+679,Bean Sprouts,100g,30 cal
+680,Bengal Gram,100g,364 cal
+681,Black Beans,100g,341 cal
+682,Black Chickpeas,100g,364 cal
+683,Black Gram,100g,341 cal
+684,Brown Lentil,100g,353 cal
+685,Butternut,100g,612 cal
+686,Chickpeas,100g,364 cal
+687,Chili Bean,100g,97 cal
+688,Dal,100g,230 cal
+689,Deep-Fried Tofu,100g,271 cal
+690,Extra-Firm Tofu,100g,91 cal
+691,Firm Tofu,100g,70 cal
+692,Flageolet,100g,85 cal
+693,Fried Bean Curd,100g,271 cal
+694,Green Beans,100g,31 cal
+695,Green Gram,100g,347 cal
+696,Green Lentil,100g,257 cal
+697,Kidney Beans,100g,337 cal
+698,Lentils,100g,353 cal
+699,Lima Beans,100g,71 cal
+700,Marron,100g,210 cal
+701,Miso,100g,199 cal
+702,Mung Beans,100g,12 cal
+703,Natto,100g,212 cal
+704,Navy Bean,100g,337 cal
+705,Okara,100g,77 cal
+706,Okra,100g,33 cal
+707,Peanuts,100g,567 cal
+708,Peas,100g,42 cal
+709,Pecan,100g,691 cal
+710,Pinto Beans,100g,347 cal
+711,Puy Lentils,100g,345 cal
+712,Rajma,100g,140 cal
+713,Red Beans,100g,124 cal
+714,Red Kidney Bean,100g,337 cal
+715,Red Lentils,100g,329 cal
+716,Refried Beans,100g,91 cal
+717,Roasted Soybeans,100g,471 cal
+718,Silken Tofu,100g,55 cal
+719,Soft Tofu,100g,61 cal
+720,Soy Cheese,100g,235 cal
+721,Soy Mayonnaise,100g,322 cal
+722,Soy Nut Butter,100g,562 cal
+723,Soy Nuts,100g,471 cal
+724,Soy Yogurt,100g,66 cal
+725,Soya Cheese,100g,235 cal
+726,Soybeans,100g,147 cal
+727,Soynut Butter,100g,562 cal
+728,Sugar Peas,100g,42 cal
+729,Sweet Peas,100g,48 cal
+730,Tempeh,100g,193 cal
+731,Textured Soy Protein,100g,571 cal
+732,Textured Vegetable Protein,100g,333 cal
+733,Tofu,100g,76 cal
+734,White Beans,100g,336 cal
+735,Yam Bean,100g,38 cal
+736,Yellow Lentils,100g,304 cal
+737,Yuba,100g,176 cal
+738,Acorn,100g,387 cal
+739,Alfalfa Sprouts,100g,23 cal
+740,Almonds,100g,575 cal
+741,Beechnut,100g,576 cal
+742,Brazil Nuts,100g,656 cal
+743,Breadfruit,100g,191 cal
+744,Butternut,100g,612 cal
+745,Cashew,100g,553 cal
+746,Chestnut,100g,213 cal
+747,Chia Seeds,100g,486 cal
+748,Coconut,100g,354 cal
+749,Cotton Seeds,100g,506 cal
+750,Flaxseed,100g,534 cal
+751,Ginkgo Nuts,100g,182 cal
+752,Goa Bean,100g,409 cal
+753,Hazelnut,100g,628 cal
+754,Hickory Nuts,100g,657 cal
+755,Lima Beans,100g,71 cal
+756,Lotus Seed,100g,89 cal
+757,Macadamia Nuts,100g,718 cal
+758,Peanuts,100g,567 cal
+759,Peas,100g,81 cal
+760,Pecan Nuts,100g,691 cal
+761,Pecans,100g,691 cal
+762,Pili Nuts,100g,719 cal
+763,Pine Nuts,100g,673 cal
+764,Pinto Beans,100g,347 cal
+765,Pistachios,100g,562 cal
+766,Poppy Seeds,100g,525 cal
+767,Pumpkin Seeds,100g,559 cal
+768,Radish Seeds,100g,43 cal
+769,Safflower Seeds,100g,517 cal
+770,Sesame Seeds,100g,573 cal
+771,Smoked Almonds,100g,575 cal
+772,Soy Beans,100g,147 cal
+773,Sunflower Seeds,100g,584 cal
+774,Sweet Chestnut,100g,194 cal
+775,Walnuts,100g,654 cal
+776,Watermelon,100g,30 cal
+777,Almond Oil,100ml,882 cal
+778,Avocado Oil,100ml,857 cal
+779,Butter,100g,720 cal
+780,Canola Oil,100ml,884 cal
+781,Coconut Oil,100ml,857 cal
+782,Cod Liver Oil,100ml,1000 cal
+783,Corn Oil,100ml,800 cal
+784,Cottonseed Oil,100ml,882 cal
+785,Flaxseed Oil,100ml,884 cal
+786,Ghee,100g,120 cal
+787,Goose Fat,100g,898 cal
+788,Grape Seed Oil,100ml,884 cal
+789,Hemp Oil,100ml,807 cal
+790,Herring Oil,100ml,902 cal
+791,I can\’t believe it\’s not Butter,100g,357 cal
+792,Lard,100g,902 cal
+793,Macadamia Oil,100ml,819 cal
+794,Margarine,100g,717 cal
+795,Mustard Oil,100ml,884 cal
+796,Olive Oil,100ml,884 cal
+797,Palm Oil,100ml,882 cal
+798,Peanut Oil,100ml,857 cal
+799,Real Butter,100g,720 cal
+800,Rice Bran Oil,100ml,889 cal
+801,Safflower Oil,100ml,857 cal
+802,Sardine Oil,100ml,902 cal
+803,Sesame Oil,100ml,884 cal
+804,Soybean Oil,100ml,889 cal
+805,Sunflower Oil,100ml,884 cal
+806,Walnut Oil,100ml,889 cal
+807,Anchovy,100g,131 cal
+808,Bluefish,100g,159 cal
+809,Bream,100g,135 cal
+810,Butterfish,100g,187 cal
+811,Calamari,100g,175 cal
+812,Carp,100g,162 cal
+813,Caviar,100g,264 cal
+814,Clam,100g,148 cal
+815,Cod,100g,105 cal
+816,Crawfish,100g,82 cal
+817,Crayfish,100g,87 cal
+818,Eel,100g,236 cal
+819,Fish Fingers,100g,290 cal
+820,Fish Sticks,100g,290 cal
+821,Flounder,100g,86 cal
+822,Grouper,100g,118 cal
+823,Haddock,100g,90 cal
+824,Hake,100g,71 cal
+825,Halibut,100g,111 cal
+826,Herring,100g,203 cal
+827,Hoki,100g,121 cal
+828,Kipper,100g,217 cal
+829,Ling,100g,109 cal
+830,Lobster,100g,89 cal
+831,Mackerel,100g,262 cal
+832,Milkfish,100g,190 cal
+833,Monkfish,100g,97 cal
+834,Mullet,100g,150 cal
+835,Mussel,100g,172 cal
+836,Octopus,100g,164 cal
+837,Pickerel,100g,111 cal
+838,Pickled Herring,100g,262 cal
+839,Pike,100g,113 cal
+840,Plaice,100g,91 cal
+841,Pollack,100g,111 cal
+842,Red Snapper,100g,128 cal
+843,Redfish,100g,94 cal
+844,Rollmops,100g,171 cal
+845,Salmon,100g,206 cal
+846,Sardines,100g,208 cal
+847,Scallops,100g,111 cal
+848,Scampi,100g,84 cal
+849,Sea Bass,100g,124 cal
+850,Shad,100g,252 cal
+851,Shark,100g,130 cal
+852,Smelt,100g,124 cal
+853,Sole,100g,86 cal
+854,Squid,100g,92 cal
+855,Sturgeon,100g,135 cal
+856,Sushi,100g,150 cal
+857,Swordfish,100g,172 cal
+858,Triggerfish,100g,93 cal
+859,Trout,100g,190 cal
+860,Tuna,100g,132 cal
+861,Tuna Salad,100g,187 cal
+862,Turbot,100g,122 cal
+863,Wahoo,100g,167 cal
+864,Whitefish,100g,172 cal
+865,Whiting,100g,116 cal
+866,Zander,100g,84 cal
