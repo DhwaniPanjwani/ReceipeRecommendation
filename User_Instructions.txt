@@ -1,0 +1,10 @@
+User Instructions: 
+
+
+1. Download all the files in the Run_This Folder
+2. Open Run_This folder and on the terminal (using the path location of Run_This folder) type 
+"streamlit run RecommendationEngine.py"
+3. Put your desired ingredients in the text box or choose from the list to get the "Recommended Recipes".
+4. Click on the Explore Tab to view the calorie-content and other nutritional information of the ingredients. 
+
+

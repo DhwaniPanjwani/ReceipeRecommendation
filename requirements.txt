@@ -1,0 +1,24 @@
+Requirements: 
+
+
+selenium 
+pandas
+numpy
+streamlit
+re
+BeautifulSoup
+plotly
+wordcloud
+sklearn 
+nltk
+gensin
+joblib
+ast
+matplotlib
+graphs
+tabulate
+time
+json 
+requests 
+
+**You can download everything using pip command 

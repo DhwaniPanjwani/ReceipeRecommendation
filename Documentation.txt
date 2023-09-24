@@ -1,0 +1,13 @@
+Documentation: 
+
+
+foodScraping.py : Scrapes the recipe data from Food.com 
+foodcomscraping.py : Scrapes calorie info from calories.info website 
+nutri_scraping.py : Scrapes nutritional information from rapid API
+combineDataSet.py : Combines the csv file scraped from foodScraping and the kaggle csv
+trainWordVector.py : Trains the word2vec model to generate word-level embeddings
+wordEmbeddings.py : Converts the list of food ingredients to a list of 128 Dimensional Vector and stores it in the CSV File
+recommendationModel.py : Trains the k-means clustering model 
+graphs.py : Generates visualisations of the nutritional information of the ingredients
+RecommendationEngine.py : Generates the Frontend using streamlit from the recommendationModel and graphs.py
+
